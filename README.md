@@ -2,4 +2,4 @@
 
 # Results and alterations_across_sampbles.tsv files of all tested genes can be found in "Results". 
 
-# Groups.txt files are included in in tables.xlsx file within results
+# Groups.txt files are included in in tables.xlsx file within results.
