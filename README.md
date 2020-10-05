@@ -1,4 +1,4 @@
-# GDSC_Tool_draft
+# GDSC_Tool
 
 * Results and alterations_across_sampbles.tsv files of all tested genes can be found in "Results". 
 
