@@ -1,4 +1,4 @@
-# GDSC_Tool
+# Drug Response Tool
 
 * Results and alterations_across_samples.tsv files of all tested genes can be found in "Results". 
 
